@@ -4,7 +4,7 @@ import { GifGrid } from './components/GifGrid';
 
 export const GifExpertApp = () => {
 
-        const [categories, setCategories] = useState(['World of warcraft'])
+        const [categories, setCategories] = useState(['Overwatch'])
 
         const onAddCategory = (newCategory) => {
             //categories.push(onNewCategory);

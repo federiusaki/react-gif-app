@@ -17,6 +17,12 @@
     padding: 5px 15px;
     width: 100%;
   }
+
+  h1 {
+    font-size: 3rem;
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
   
   h2 {
     font-size: 1.5rem;
@@ -47,6 +53,11 @@
     margin-bottom: 20px;
     margin-right: 20px;
     overflow: hidden;
+    min-height: 30rem;
+    max-height: 40rem;
+    overflow: hidden;
+    min-width: 30rem;
+    max-width: 50rem;
   }
   
   .card p {
